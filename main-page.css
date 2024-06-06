@@ -1,6 +1,7 @@
 body {
     background-color: #000;
     color: #fff;
+    font-family: Noto Sans KR, -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
 }
 
 /* main-banner */
@@ -24,7 +25,6 @@ body {
     width: 31.667rem;
     padding: 0;
     margin: 0;
-    font-family: Noto Sans KR, -apple-system, BlinkMacSystemFont, Roboto, Segoe UI, Oxygen, Ubuntu, Cantarell, Open Sans, Helvetica Neue, sans-serif;
     line-height: 1.5;
     font-weight: 550;
 }
@@ -60,4 +60,3 @@ body {
     cursor: pointer;
     padding: 10px 30px;
 }
-
